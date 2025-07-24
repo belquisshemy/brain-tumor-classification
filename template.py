@@ -1,5 +1,5 @@
 import os
-from pathlib import Path
+from pathlib import Path 
 import logging
 
 
@@ -23,7 +23,8 @@ list_of_files = [
     "params.yaml",
     "requirements.txt",
     "setup.py",
-    "research/trials.ipynb"
+    "research/trials.ipynb",
+    "templates/index.html"
 ] 
 
 
